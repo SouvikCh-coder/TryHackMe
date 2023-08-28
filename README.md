@@ -117,7 +117,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Advent of Cyber Year 1](https://tryhackme.com/room/25daysofchristmas)
 - [ ] [Advent of Cyber Year 2](https://tryhackme.com/room/adventofcyber2)
 - [ ] [Advent of Cyber Year 3](https://tryhackme.com/room/adventofcyber3)
-- [ ] [Advent of Cyber Year 4](https://tryhackme.com/room/adventofcyber4)
+- [⏳] [Advent of Cyber Year 4](https://tryhackme.com/room/adventofcyber4)
 
 ---
 
