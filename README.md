@@ -15,9 +15,9 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 ---
 
 ## Level 1 - Intro
-- [x] [OpenVPN](https://tryhackme.com/room/openvpn)
-- [x] [Welcome](https://tryhackme.com/jr/welcome) (write-up [here](write-ups/level1/Welcome))
-- [⏳] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
+- [ ] [OpenVPN](https://tryhackme.com/room/openvpn)
+- [ ] [Welcome](https://tryhackme.com/jr/welcome) (write-up [here](write-ups/level1/Welcome))
+- [ ] [Intro to Researching](https://tryhackme.com/room/introtoresearch)
 - [ ] [Google Dorking](https://tryhackme.com/room/googledorking)
 - [ ] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 - [ ] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
@@ -117,7 +117,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [ ] [Advent of Cyber Year 1](https://tryhackme.com/room/25daysofchristmas)
 - [ ] [Advent of Cyber Year 2](https://tryhackme.com/room/adventofcyber2)
 - [ ] [Advent of Cyber Year 3](https://tryhackme.com/room/adventofcyber3)
-- [⏳] [Advent of Cyber Year 4](https://tryhackme.com/room/adventofcyber4)
+- [ ] [Advent of Cyber Year 4](https://tryhackme.com/room/adventofcyber4)
 
 ---
 
